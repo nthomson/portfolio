@@ -84,6 +84,7 @@ footer p {
 /* Navigation link styles */
 nav a{
 	color: #eee;
+	text-decoration:none;
 }
 
 nav a.selected{
