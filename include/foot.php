@@ -1,3 +1,3 @@
-<footer>
+<div class="footer">
 			<p>&copy; Nicholas Thomson</p>
-		</footer>
+		</div>
