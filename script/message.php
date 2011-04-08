@@ -15,7 +15,7 @@ $headers = "From: $from\r\n"."X-Mailer: php";
 		echo("Message sent successfully - I'll get back to you soon!");
 	}
 	else {
-		echo("Message failed to send, try alternative means of contact");
+		echo("Error: Message failed to send, please try an alternative method of contact");
 	}
 
 ?>

@@ -13,6 +13,8 @@ function getHTTPObject(){
  
 // Implement business logic    
 function doWork(){
+	var errorColor = "#a33";
+	var successColor = "#3a3";
 	var toInput = document.getElementById('replyto').value;
 	var nameInput = document.getElementById('nameInput').value;
 	var messageInput = document.getElementById('msgArea').value;
@@ -33,6 +35,13 @@ function doWork(){
 			httpObject.setRequestHeader("Connection", "close");
 			httpObject.onreadystatechange = function setOutput(){
 				if(httpObject.readyState == 4){
+					var response = httpObject.responseText;
+					if(response.indexOf("Error:") == -1){
+						document.getElementById('response').style.color = successColor;
+					}
+					else{
+						document.getElementById('response').style.color = errorColor;
+					}	
 					document.getElementById('response').innerHTML = httpObject.responseText;
 				}
 			 
@@ -44,7 +53,7 @@ function doWork(){
 	}
 	else {
 		document.getElementById('response').innerHTML = errors;
-		document.getElementById('response').style.color = "#f00";
+		document.getElementById('response').style.color = errorColor;
 	}
 	
 }
