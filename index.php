@@ -39,7 +39,7 @@
 					</div>
 					<div id="rightContent" class="right">
 						<p>
-							Hello! I'm Nicholas Thomson. I'm a web developer specializing in
+							Hello! My name is Nicholas Thomson. I'm a web developer specializing in
 							implementing designs in standards-compliant HTML, CSS and JavaScript.
 						</p>
 						<p>
