@@ -13,9 +13,9 @@
 							<strong>Phone: </strong><script language="JavaScript">document.write(hidePhone("951", "0069", "407"));</script>
 						</p>
 						<p>
+							<a href="http://github.com/nthomson"><img src="img/github.png" width="28" height="28"/></a>
 							<a href="http://www.facebook.com/profile.php?id=100000116258369"><img src="img/facebook.png" /></a>
 							<a href="http://twitter.com/#!/sunshineq117"><img src="img/twitter.png" /></a>
-
 						</p>
 						<form name="contact" class="contact">
 							<p>
