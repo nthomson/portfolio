@@ -8,8 +8,8 @@
 			<div id="main" class="contain clear">
 				<div id="content">
 					<div id="leftContent" class="left">
-						<p class="blurb"><a href="http://stackframe.com"><img src="img/stackframe.png" width=300 height=200 /></a></p>
-						<p class="blurb"><img src="img/stacklez.png" width=300 height=200 /></p>
+						<p class="blurb"><a href="http://stackframe.com"><img src="img/site_shots/stackframe.png" width=300 height=200 /></a></p>
+						<p class="blurb"><img src="img/site_shots/stacklez.png" width=300 height=200 /></p>
 					</div>
 					<div id="rightContent" class="right">
 						<p class="blurb">
