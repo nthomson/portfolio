@@ -66,6 +66,10 @@ nav {
 	min-height: 200px;
 }
 
+#icon-links img {
+	margin-right:5px;
+}
+
 form.contact {
 	margin:5px;
 	text-align:left;

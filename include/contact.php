@@ -2,9 +2,9 @@
 	<strong>Email: </strong><script language="JavaScript">document.write(hideEmail("gmail", "nthomsondev", "com"));</script><br />
 	<strong>Phone: </strong><script language="JavaScript">document.write(hidePhone("951", "0069", "407"));</script>
 </p>
-<p>
+<p id="icon-links">
 	<a href="http://github.com/nthomson"><img title="Github" src="img/icons/github.png" /></a>
-    <a href="http://nick.kanicweb.com/id_rsa.pub"><img title="Public Key" src="img/icons/rsa_key.png" /></a>
+	<a href="http://nick.kanicweb.com/id_rsa.pub"><img title="Public Key" src="img/icons/rsa_key.png" /></a>
 	<a href="http://www.facebook.com/profile.php?id=100000116258369"><img title="Facebook" src="img/icons/facebook.png" /></a>
 	<a href="http://twitter.com/#!/sunshineq117"><img title="Twitter" src="img/icons/twitter.png" /></a>
 </p>
