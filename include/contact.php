@@ -10,11 +10,11 @@
 </p>
 <form name="contact" class="contact">
 	<p>
-		<label for="name">Name:</label>
+		<label for="nameInput">Name:</label>
 		<input class="niceInput" type="textbox" placeholder="Your Name" id="nameInput" name="name"  />
 	</p>
 	<p>
-		<label for="replyTo">E-Mail:</label>
+		<label for="replyto">E-Mail:</label>
 		<input class="niceInput" type="textbox" placeholder="you@example.com" id="replyto" name="replyTo"  />
 	</p>
 
