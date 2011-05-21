@@ -14,10 +14,11 @@
 					<div id="rightContent" class="right">
 						<p class="blurb">
 							<strong>Project: </strong>StackFrame Company Website<br />
-							<strong>Date: </strong>December, 2009<br />
-							<strong>My part: </strong>Most of my involvement in StackFrame was from a front-end 
-							perspective. I coded a lot of the HTML and CSS and brought it in line with WC3 standards.
-							I did, however, do a bit of back-end work in PHP.<br />
+							<strong>Date: </strong>May, 2011<br />
+							<strong>My part: </strong>My involvement in the StackFrame website was mostly front-end work.
+							StackFrame is a Drupal-based site; I wrote the Drupal theme using PHP, HTML5, and CSS3. The
+							site makes use of CSS3 techniques such as drop-shadows and rounded borders in place of bandwidth-
+							heavy images.	
 						</p>
 						<p class="blurb">
 							<strong>Project: </strong>Stacklez Entertainment Site<br />
